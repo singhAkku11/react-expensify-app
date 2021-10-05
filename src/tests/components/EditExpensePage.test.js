@@ -14,7 +14,7 @@ beforeEach(() => {
             expense={expenses[2]}
             editExpense={editExpense}
             history={history}
-            removeExpense={removeExpense}
+            startRemoveExpense={removeExpense}
         />
     );
 });
